@@ -45,3 +45,8 @@ https://cbztopdf.com
 ## Built for comic readers
 
 Mangavia was created for readers who want a simple and private way to manage their comic collections.
+
+## Articles
+
+- How I built Mangavia:
+  DEV.to article link
