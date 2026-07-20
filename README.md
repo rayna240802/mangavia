@@ -1,42 +1,47 @@
+<div align="center">
+
 # Mangavia
 
-Convert CBZ comics to PDF directly in your browser.
+### 📚 Privacy-first comic conversion toolkit
 
-Mangavia is a privacy-first CBZ to PDF converter that runs completely locally.
+Convert **CBZ ↔ PDF** directly in your browser.  
+Fast, private, and completely local.
 
-Your comic files never leave your device.
+</div>
+
+---
 
 ## Why Mangavia?
 
-Most online converters require uploading your files to a server.
+Mangavia is built for comic readers who want a fast and private way to manage comic files.
 
-For comic collections, this can be inconvenient:
+Unlike many online converters, Mangavia performs every conversion entirely inside your browser.
 
-- Large file uploads
-- Slow processing
-- Privacy concerns
+Your comic files never leave your device.
 
-Mangavia takes a different approach.
+No uploads.
 
-Everything happens inside your browser.
+No cloud processing.
 
+No accounts.
+
+Just drag, drop, and convert.
+
+---
 ## Features
 
-- Convert CBZ files to PDF
-- No uploads
-- No account required
-- Client-side processing
-- Support JPG, PNG, and WebP images
-- Designed for comic readers
+- 📖 Convert **CBZ → PDF**
+- 📦 Convert **PDF → CBZ**
+- ⚡ Batch convert multiple CBZ files
+- 🖱️ Drag & drop support
+- 🔒 100% local processing (no uploads)
+- 🚫 No account required
+- 💻 Works on Windows, macOS and Linux
+- 📱 Great for tablets and e-readers
+- 🌍 Multi-language interface
 
-## How it works
+---
 
-1. Select a CBZ file
-2. Extract comic pages locally
-3. Convert pages into PDF
-4. Download your comic
-
-Your files stay private.
 
 ## Website
 
@@ -50,3 +55,13 @@ Mangavia was created for readers who want a simple and private way to manage the
 
 - How I built Mangavia:
   DEV.to article link
+
+---
+
+  <div align="center">
+
+Made with ❤️ for comic readers.
+
+**Mangavia — Convert CBZ ↔ PDF locally in your browser.**
+
+</div>
